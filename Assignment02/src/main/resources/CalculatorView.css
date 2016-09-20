@@ -1,0 +1,24 @@
+#numeric {
+    -fx-background-color: darkgrey;
+    -fx-background-radius: 0px;
+}
+
+#numeric:pressed {
+    -fx-background-color: red;
+}
+
+#control {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-background-radius: 0px;
+}
+
+#control:pressed {
+    -fx-background-color: red;
+    -fx-text-fill: black;
+}
+
+#display {
+    -fx-background-radius: 0px;
+    -fx-border: none;
+}
